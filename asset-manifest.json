@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/golovsergey1984/react-hw6-phonebook-redux/static/css/main.4e86862e.chunk.css",
+    "main.js": "/golovsergey1984/react-hw6-phonebook-redux/static/js/main.68a68899.chunk.js",
+    "main.js.map": "/golovsergey1984/react-hw6-phonebook-redux/static/js/main.68a68899.chunk.js.map",
+    "runtime-main.js": "/golovsergey1984/react-hw6-phonebook-redux/static/js/runtime-main.74803e23.js",
+    "runtime-main.js.map": "/golovsergey1984/react-hw6-phonebook-redux/static/js/runtime-main.74803e23.js.map",
+    "static/js/2.ad197b14.chunk.js": "/golovsergey1984/react-hw6-phonebook-redux/static/js/2.ad197b14.chunk.js",
+    "static/js/2.ad197b14.chunk.js.map": "/golovsergey1984/react-hw6-phonebook-redux/static/js/2.ad197b14.chunk.js.map",
+    "index.html": "/golovsergey1984/react-hw6-phonebook-redux/index.html",
+    "precache-manifest.1502fbd1932e142943c504792a145388.js": "/golovsergey1984/react-hw6-phonebook-redux/precache-manifest.1502fbd1932e142943c504792a145388.js",
+    "service-worker.js": "/golovsergey1984/react-hw6-phonebook-redux/service-worker.js",
+    "static/css/main.4e86862e.chunk.css.map": "/golovsergey1984/react-hw6-phonebook-redux/static/css/main.4e86862e.chunk.css.map",
+    "static/js/2.ad197b14.chunk.js.LICENSE.txt": "/golovsergey1984/react-hw6-phonebook-redux/static/js/2.ad197b14.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.74803e23.js",
+    "static/js/2.ad197b14.chunk.js",
+    "static/css/main.4e86862e.chunk.css",
+    "static/js/main.68a68899.chunk.js"
+  ]
+}
