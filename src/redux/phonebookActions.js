@@ -1,6 +1,6 @@
 import { createAction } from '@reduxjs/toolkit';
-
-export const Type = {
+//Код без использования Redux Toolkit
+/* export const Type = {
     NAME_ADD: 'NAME_ADD',
     NUMBER_ADD: 'NUMBER_ADD',
     FORM_ADD: "FORM_ADD",
@@ -9,8 +9,8 @@ export const Type = {
     NAME_CLEAR: "NAME_CLEAR",
     NUMBER_CLEAR: "NUMBER_CLEAR",
     FORM_LOCAL_ADD: "FORM_LOCAL_ADD"
-}
-//Код без использования Redux Toolkit
+} */
+
 /* export const filterName = e => ({
     type: "FILTER_VALUE",
     filter: e.target.value,

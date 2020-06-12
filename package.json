@@ -1,12 +1,14 @@
 {
-  "name": "react-hw5-phonebook-redux",
+  "name": "react-hw6-phonebook-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://golovsergey1984.github.io/react-hw6-phonebook-redux",
   "dependencies": {
     "@reduxjs/toolkit": "^1.3.6",
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "gh-pages": "^3.0.0",
     "indicative": "^7.4.4",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
@@ -21,7 +23,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
