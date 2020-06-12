@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-hw6-phonebook-redux/static/css/main.4e86862e.chunk.css",
-    "main.js": "/react-hw6-phonebook-redux/static/js/main.2b45e7e5.chunk.js",
-    "main.js.map": "/react-hw6-phonebook-redux/static/js/main.2b45e7e5.chunk.js.map",
-    "runtime-main.js": "/react-hw6-phonebook-redux/static/js/runtime-main.f028d047.js",
-    "runtime-main.js.map": "/react-hw6-phonebook-redux/static/js/runtime-main.f028d047.js.map",
-    "static/js/2.e1718412.chunk.js": "/react-hw6-phonebook-redux/static/js/2.e1718412.chunk.js",
-    "static/js/2.e1718412.chunk.js.map": "/react-hw6-phonebook-redux/static/js/2.e1718412.chunk.js.map",
+    "main.css": "/react-hw6-phonebook-redux/static/css/main.32ebc137.chunk.css",
+    "main.js": "/react-hw6-phonebook-redux/static/js/main.7e278356.chunk.js",
+    "main.js.map": "/react-hw6-phonebook-redux/static/js/main.7e278356.chunk.js.map",
+    "runtime-main.js": "/react-hw6-phonebook-redux/static/js/runtime-main.e53de1c3.js",
+    "runtime-main.js.map": "/react-hw6-phonebook-redux/static/js/runtime-main.e53de1c3.js.map",
+    "static/js/2.dcb40934.chunk.js": "/react-hw6-phonebook-redux/static/js/2.dcb40934.chunk.js",
+    "static/js/2.dcb40934.chunk.js.map": "/react-hw6-phonebook-redux/static/js/2.dcb40934.chunk.js.map",
     "index.html": "/react-hw6-phonebook-redux/index.html",
-    "precache-manifest.15719c7c9abbc02f87db37be79da6bc4.js": "/react-hw6-phonebook-redux/precache-manifest.15719c7c9abbc02f87db37be79da6bc4.js",
+    "precache-manifest.ed65543711ed8d55b687baac78a4d856.js": "/react-hw6-phonebook-redux/precache-manifest.ed65543711ed8d55b687baac78a4d856.js",
     "service-worker.js": "/react-hw6-phonebook-redux/service-worker.js",
-    "static/css/main.4e86862e.chunk.css.map": "/react-hw6-phonebook-redux/static/css/main.4e86862e.chunk.css.map",
-    "static/js/2.e1718412.chunk.js.LICENSE.txt": "/react-hw6-phonebook-redux/static/js/2.e1718412.chunk.js.LICENSE.txt"
+    "static/css/main.32ebc137.chunk.css.map": "/react-hw6-phonebook-redux/static/css/main.32ebc137.chunk.css.map",
+    "static/js/2.dcb40934.chunk.js.LICENSE.txt": "/react-hw6-phonebook-redux/static/js/2.dcb40934.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f028d047.js",
-    "static/js/2.e1718412.chunk.js",
-    "static/css/main.4e86862e.chunk.css",
-    "static/js/main.2b45e7e5.chunk.js"
+    "static/js/runtime-main.e53de1c3.js",
+    "static/js/2.dcb40934.chunk.js",
+    "static/css/main.32ebc137.chunk.css",
+    "static/js/main.7e278356.chunk.js"
   ]
 }
